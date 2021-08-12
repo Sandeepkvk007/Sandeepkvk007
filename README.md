@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeepkvk007
 - 👀 I’m interested in Automotive Embedded,Automotive OS,Automotive Cyber Security,Functional Safety ISO26262
-- 🌱 I’m currently learning topics i mentioned above
+- 🌱 I’m currently working as an Automotive Embedded Developer
 - 💞️ I’m looking to collaborate on topics i mentioned above
 - 📫 How to reach me sandeepkanuparthy@gmail.com
 
